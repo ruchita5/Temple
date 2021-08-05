@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="fitXY"
+                android:id="@+id/img1"
+                android:src="@drawable/ic_img2"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_marginLeft="250dp"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/l11"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    app:srcCompat="@drawable/ic_share_black"
+                    tools:ignore="VectorDrawableCompat" />
+                <ImageView
+                    android:id="@+id/l12"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginLeft="20dp"
+                    app:srcCompat="@drawable/ic_file_download"
+                    tools:ignore="VectorDrawableCompat" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="fitXY"
+                android:layout_marginTop="10dp"
+                android:id="@+id/img2"
+                android:src="@drawable/ic_img5"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_marginLeft="250dp"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/l21"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    app:srcCompat="@drawable/ic_share_black"
+                    tools:ignore="VectorDrawableCompat" />
+                <ImageView
+                    android:id="@+id/l22"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginLeft="20dp"
+                    app:srcCompat="@drawable/ic_file_download"
+                    tools:ignore="VectorDrawableCompat" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="fitXY"
+                android:layout_marginTop="10dp"
+                android:id="@+id/img3"
+                android:src="@drawable/ic_img4"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_marginLeft="250dp"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/l31"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    app:srcCompat="@drawable/ic_share_black"
+                    tools:ignore="VectorDrawableCompat" />
+                <ImageView
+                    android:id="@+id/l32"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginLeft="20dp"
+                    app:srcCompat="@drawable/ic_file_download"
+                    tools:ignore="VectorDrawableCompat" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="fitXY"
+                android:layout_marginTop="10dp"
+                android:id="@+id/img4"
+                android:src="@drawable/ic_img6"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_marginLeft="250dp"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/l41"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    app:srcCompat="@drawable/ic_share_black"
+                    tools:ignore="VectorDrawableCompat" />
+                <ImageView
+                    android:id="@+id/l42"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginLeft="20dp"
+                    app:srcCompat="@drawable/ic_file_download"
+                    tools:ignore="VectorDrawableCompat" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="fitXY"
+                android:layout_marginTop="10dp"
+                android:id="@+id/img5"
+                android:src="@drawable/ic_img8"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_marginLeft="250dp"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/l61"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    app:srcCompat="@drawable/ic_share_black"
+                    tools:ignore="VectorDrawableCompat" />
+                <ImageView
+                    android:id="@+id/l62"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginLeft="20dp"
+                    app:srcCompat="@drawable/ic_file_download"
+                    tools:ignore="VectorDrawableCompat" />
+            </LinearLayout>
+
+
+            <ImageView
+                android:id="@+id/img6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_img1"
+                android:layout_marginBottom="20dp"/>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_marginLeft="270dp"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/l71"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    app:srcCompat="@drawable/ic_share_black"
+                    tools:ignore="VectorDrawableCompat" />
+                <ImageView
+                    android:id="@+id/l72"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginLeft="20dp"
+                    app:srcCompat="@drawable/ic_file_download"
+                    tools:ignore="VectorDrawableCompat" />
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="fitXY"
+                android:layout_marginTop="10dp"
+                android:id="@+id/img7"
+                android:src="@drawable/ic_img7"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_marginLeft="250dp"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/l51"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    app:srcCompat="@drawable/ic_share_black"
+                    tools:ignore="VectorDrawableCompat" />
+                <ImageView
+                    android:id="@+id/l52"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginLeft="20dp"
+                    app:srcCompat="@drawable/ic_file_download"
+                    tools:ignore="VectorDrawableCompat" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

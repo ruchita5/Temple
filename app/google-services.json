@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "992481531922",
+    "firebase_url": "https://myotp-fd1bd.firebaseio.com",
+    "project_id": "myotp-fd1bd",
+    "storage_bucket": "myotp-fd1bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992481531922:android:c9c0f2ec56e29d9a",
+        "android_client_info": {
+          "package_name": "com.example.user.temple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992481531922-agv7d2501kngn36g0gqul1e3859cb53k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.temple",
+            "certificate_hash": "32d5f3d4b854b3e905265d4371fa08a72e0ee843"
+          }
+        },
+        {
+          "client_id": "992481531922-la40ho4762qv6pqjqtid3pd8rkc053tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMGOjL0gzjzr3g815Jv_QTPOdLfGLw3m4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992481531922-la40ho4762qv6pqjqtid3pd8rkc053tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

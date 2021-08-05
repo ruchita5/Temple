@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">TempleTTD</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="title">Venkateshwara</string>
+    <string name="title1">Devasthanam</string>
+
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="fp">Forgot Password? </string>
+    <string name="uname">   Username</string>
+    <string name="pass">   Password</string>
+
+
+    <string name="edtname">   Enter Name</string>
+    <string name="edtmob">   Enter Mobile No.</string>
+    <string name="edtadd">   Enter Address</string>
+    <string name="edtemail">   Enter Email Id</string>
+    <string name="edtuser">   Enter Username</string>
+    <string name="edtpass">   Enter Password</string>
+    <string name="edtconpass">   Confirm Password</string>
+    <string name="btnreg">   Register</string>
+    <string name="title_activity_eventsnavi">EventsnaviActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="don">Donation</string>
+    <string name="temp_info1">       Venkateswara Temple is a landmark Vaishnavite temple situated in the hill
+        town of Tirumala at Tirupati in Chittoor district of Andhra Pradesh, India.
+        The Temple is dedicated to Lord Sri Venkateswara, an incarnation of Vishnu,
+        who is believed to have appeared here to save mankind from trials and troubles of Kali Yuga.
+        Hence the place has also got the name Kaliyuga Vaikuntham and the Lord here is referred to
+        as Kaliyuga Prathyaksha Daivam. The temple is also known by other names like Tirumala Temple,
+        Tirupati Temple, Tirupati Balaji Temple. Lord Venkateswara is known by many other
+        names: Balaji, Govinda, and Srinivasa.</string>
+
+    <string name="temp_info2">       Tirumala Hills are part of Seshachalam Hills range. The hills are 853 metres (2,799 ft) above sea
+        level. The Hills comprises seven peaks, representing the seven heads of Adisesha.
+        The temple lies on the seventh peak -Venkatadri, on the southern banks of Sri Swami Pushkarini,
+        a holy water tank. Hence the temple is also referred to as "Temple of Seven Hills".
+        Tirumala town covers about 10.33 sq mi (26.75 km2) in area.</string>
+
+    <string name="temp_info3">      The Temple is constructed in Dravidian architecture and is believed to be constructed over a period
+        of time starting from 300 AD. The Garbagriha (Sanctum Sanctorum) is called AnandaNilayam.
+        The presiding deity, Venkateswara, is in standing posture and faces east in Garbha griha.
+        The temple follows Vaikhanasa Agama tradition of worship. The temple is one of the eight Vishnu
+        Swayambhu Kshetras and is listed as 106th and the last earthly Divya Desam. The Temple premises had
+        two modern Queue complex buildings to organize the pilgrim rush, Tarigonda Vengamamba Annaprasadam
+        complex for free meals to Pilgrims, hair tonsure buildings and a number of pilgrim lodging sites.</string>
+
+
+    <string name="event_archana">
+        The Sanskrit meaning of Archana is honouring / praising the lord.
+        Archana is a special pooja done on behalf of the devotees by the
+        temple priests by reciting the name(s), birth star(s) and the Gothra
+        of the devotee to invoke specific spiritual guidance and blessings (Sankalpam).</string>
+    <string name="event_abhishekam">
+        Abhishekam is a Sanskrit word for the celestial bath that is performed
+        to the main presiding deity in any Hindu temple.
+        As per tradition, in Tirumala, this is performed on the pre-dawn
+        of every Friday. It will be performed from morning 3:30 a.m. which may
+        last up to 5:00 a.m. A team of 4–5 priests will perform the Abhishekam
+        based on Vaikhanasa Agama. All bedecked gold and diamond ornaments,
+        clothing, and finery is taken off from the presiding deity except a white loin,
+        and a heavy gold necklace bearing a pendant with Sri Mahalakshmi's seated pose.
+        The abhishekam is performed by priests with water (brought from Akashaganga teertham),
+        milk, punugu-kasturi parimalam(scent), turmeric, sandal paste, etc.
+        During Abhishekam, priests will recite Pancha Suktam - Purusha Suktam, Sri Suktam,
+        Bhoo Suktam, Nila Suktam, and Santhi Vachanam.
+        </string>
+    <string name="event_vaikuntaekadashisevalu">
+        Vaikunta Ekadashi is the Shukla Paksha Ekadashi that occurs
+        during the Dhanu/Margazhi month in the Hindu calendar
+        (corresponding to late December - early January in English calendar).
+        The Vaishnava (Worship of Vishnu) sect believes that'Vaikunta Dwaram' or 'the gate to the Lord's Inner Sanctum' is opened on this day.</string>
+    <string name="action_settings">Action</string>
+</resources>

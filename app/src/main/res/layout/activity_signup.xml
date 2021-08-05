@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_newbg"
+    tools:context="com.example.user.templettd.SignupActivity">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:id="@+id/btn_back2"
+                android:background="@android:color/transparent"
+                android:drawableLeft="@drawable/ic_arrow_back_black_24dp"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:id="@+id/edtname"
+                android:inputType="text"
+                android:textStyle="normal"
+                android:textColor="#000"
+                android:drawablePadding="7dp"
+                android:textSize="15sp"
+                android:hint="@string/edtname"
+                android:drawableLeft="@drawable/ic_person_black_24dp"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtmob"
+                android:inputType="number"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:drawablePadding="7dp"
+                android:textSize="15sp"
+                android:hint="@string/edtmob"
+                android:drawableLeft="@drawable/ic_phone_black_24dp"/>
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtadd"
+                android:inputType="textPostalAddress"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:drawablePadding="7dp"
+                android:textSize="15sp"
+                android:hint="@string/edtadd"
+                android:drawableLeft="@drawable/ic_place_black_24dp"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtemail"
+                android:inputType="textEmailAddress"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:drawablePadding="7dp"
+                android:textSize="15sp"
+                android:hint="@string/edtemail"
+                android:drawableLeft="@drawable/ic_mail_black_24dp"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtuser"
+                android:inputType="text"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:drawablePadding="7dp"
+                android:textSize="15sp"
+                android:hint="@string/edtuser"
+                android:drawableLeft="@drawable/ic_account_circle_black_24dp"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtpass"
+                android:inputType="textPassword"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:drawablePadding="7dp"
+                android:textSize="15sp"
+                android:hint="@string/edtpass"
+                android:drawableLeft="@drawable/ic_lock_outline_black_24dp"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtconpass"
+                android:inputType="textPassword"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:drawablePadding="7dp"
+                android:textSize="15sp"
+                android:hint="@string/edtconpass"
+                android:drawableLeft="@drawable/ic_lock_black_24dp"/>
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:id="@+id/btnreg"
+                android:text="@string/btnreg"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:textSize="17dp"
+                android:layout_gravity="center"
+                android:background="@drawable/btnbg"/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
